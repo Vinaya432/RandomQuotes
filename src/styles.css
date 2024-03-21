@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight:bolder;
+  font-style: normal;
+  font-size: 2rem;
+}
+  
